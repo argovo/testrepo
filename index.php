@@ -1,12 +1,6 @@
 <?php 
 
-/*
- * see on test enne git init
- */
-echo 'TZT';
-
-/*lisan veel kommentaari
- * 
- */
+include('../parser.php');
+include('classes/test1.php');
 
 ?>

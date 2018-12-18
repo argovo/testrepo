@@ -1,7 +1,5 @@
 <?php
 
-include('../parser.php');
-
 $params['title'] = 'The Title';
 $params['number'] = '1000';
 // getcwd().
