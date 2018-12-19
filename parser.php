@@ -38,3 +38,4 @@ function parse($file, $section, $vars = null) {
         return $result;
 }
 
+?>
